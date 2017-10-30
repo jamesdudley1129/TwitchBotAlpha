@@ -1,0 +1,5 @@
+﻿
+TwitchLib.Internal.TwitchAPI.Undocumented.GetChattersAsync = viwers,subscribers
+
+TwitchAPI.Channels.v5.GetAllSubscribers()
+

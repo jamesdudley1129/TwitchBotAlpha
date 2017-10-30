@@ -1,0 +1,31 @@
+C:\Users\james dudley\Documents\Visual Studio 2017\Projects\TwitchBotAlpha\TwitchBotAlpha\bin\Debug\TwitchBotAlpha.exe.config
+C:\Users\james dudley\Documents\Visual Studio 2017\Projects\TwitchBotAlpha\TwitchBotAlpha\bin\Debug\TwitchBotAlpha.exe
+C:\Users\james dudley\Documents\Visual Studio 2017\Projects\TwitchBotAlpha\TwitchBotAlpha\bin\Debug\TwitchBotAlpha.pdb
+C:\Users\james dudley\Documents\Visual Studio 2017\Projects\TwitchBotAlpha\TwitchBotAlpha\bin\Debug\Newtonsoft.Json.dll
+C:\Users\james dudley\Documents\Visual Studio 2017\Projects\TwitchBotAlpha\TwitchBotAlpha\bin\Debug\TwitchLib.dll
+C:\Users\james dudley\Documents\Visual Studio 2017\Projects\TwitchBotAlpha\TwitchBotAlpha\bin\Debug\websocket-sharp.dll
+C:\Users\james dudley\Documents\Visual Studio 2017\Projects\TwitchBotAlpha\TwitchBotAlpha\bin\Debug\Newtonsoft.Json.xml
+C:\Users\james dudley\Documents\Visual Studio 2017\Projects\TwitchBotAlpha\TwitchBotAlpha\bin\Debug\TwitchLib.xml
+C:\Users\james dudley\Documents\Visual Studio 2017\Projects\TwitchBotAlpha\TwitchBotAlpha\obj\Debug\TwitchBotAlpha.csprojResolveAssemblyReference.cache
+C:\Users\james dudley\Documents\Visual Studio 2017\Projects\TwitchBotAlpha\TwitchBotAlpha\obj\Debug\TwitchBotAlpha.Credentials.resources
+C:\Users\james dudley\Documents\Visual Studio 2017\Projects\TwitchBotAlpha\TwitchBotAlpha\obj\Debug\TwitchBotAlpha.csproj.GenerateResource.Cache
+C:\Users\james dudley\Documents\Visual Studio 2017\Projects\TwitchBotAlpha\TwitchBotAlpha\obj\Debug\TwitchBotAlpha.csproj.CoreCompileInputs.cache
+C:\Users\james dudley\Documents\Visual Studio 2017\Projects\TwitchBotAlpha\TwitchBotAlpha\obj\Debug\TwitchBotAlpha.exe
+C:\Users\james dudley\Documents\Visual Studio 2017\Projects\TwitchBotAlpha\TwitchBotAlpha\obj\Debug\TwitchBotAlpha.pdb
+D:\TwitchBotAplha\TwitchBotAlpha\bin\Debug\TwitchBotAlpha.exe.config
+D:\TwitchBotAplha\TwitchBotAlpha\bin\Debug\TwitchBotAlpha.exe
+D:\TwitchBotAplha\TwitchBotAlpha\bin\Debug\TwitchBotAlpha.pdb
+D:\TwitchBotAplha\TwitchBotAlpha\bin\Debug\Newtonsoft.Json.dll
+D:\TwitchBotAplha\TwitchBotAlpha\bin\Debug\TwitchLib.dll
+D:\TwitchBotAplha\TwitchBotAlpha\bin\Debug\websocket-sharp.dll
+D:\TwitchBotAplha\TwitchBotAlpha\bin\Debug\Newtonsoft.Json.xml
+D:\TwitchBotAplha\TwitchBotAlpha\bin\Debug\TwitchLib.xml
+D:\TwitchBotAplha\TwitchBotAlpha\obj\Debug\TwitchBotAlpha.csprojResolveAssemblyReference.cache
+D:\TwitchBotAplha\TwitchBotAlpha\obj\Debug\TwitchBotAlpha.Credentials.resources
+D:\TwitchBotAplha\TwitchBotAlpha\obj\Debug\TwitchBotAlpha.csproj.GenerateResource.Cache
+D:\TwitchBotAplha\TwitchBotAlpha\obj\Debug\TwitchBotAlpha.csproj.CoreCompileInputs.cache
+D:\TwitchBotAplha\TwitchBotAlpha\obj\Debug\TwitchBotAlpha.exe
+D:\TwitchBotAplha\TwitchBotAlpha\obj\Debug\TwitchBotAlpha.pdb
+C:\Users\said\source\repos\TwitchBotAlpha\TwitchBotAlpha\bin\Debug\TwitchBotAlpha.exe.config
+C:\Users\said\source\repos\TwitchBotAlpha\TwitchBotAlpha\obj\Debug\TwitchBotAlpha.exe
+C:\Users\said\source\repos\TwitchBotAlpha\TwitchBotAlpha\obj\Debug\TwitchBotAlpha.pdb
